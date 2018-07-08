@@ -14,13 +14,6 @@ Game = Tk()
 Game.title("My Chess Program V2.0")
 Game.state("zoomed")
 
-"""
-class NewGame:
-	def __init__(self):
-		start_game_button = Button(Game, bg = "white", width = 8, height = 4, \
-			command = startGame)
-"""
-
 # Create the squares
 
 
